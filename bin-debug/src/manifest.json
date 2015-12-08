@@ -1,0 +1,10 @@
+[
+	"GameUtils/BassPanel.ts",
+	"GameUtils/utils.ts",
+	"GameUtils/WaitServerPanel.ts",
+	"LoadingUI.ts",
+	"GameUtils/Http.ts",
+	"GameUtils/LoadingPanel.ts",
+	"darkbaby/StartGameScene.ts",
+	"Main.ts"
+]
